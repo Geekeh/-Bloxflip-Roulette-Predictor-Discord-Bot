@@ -14,8 +14,7 @@ pip install discord   idk which one
 
 ## Coming Soon
 Nothing gl on updating
-### join dah server
-https://discord.gg/juicy
+
 ## completely random roulette "predictor" as the kids say DO NOT SELL IT.
 #### if u repost or distribute with no credits im prob gonna take down.
 
